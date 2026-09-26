@@ -16,7 +16,7 @@ A GitHub Pages + GitHub Codespaces-ready example for hosting an iOS IPA archive 
 - Categories: 72
 - Images: 360
 - Sounds: 360
-  Other Languages: 28
+- Other Languages: 28
 
 ## IPA File
 
